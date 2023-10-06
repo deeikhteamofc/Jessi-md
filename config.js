@@ -47,13 +47,13 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["94779529221","94757534153"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.OwnerNumber = ["94757534153","94779529221"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.ownertag = ["94779529221"];
-global.OwnerName = "Mr.White Shadow";
+global.Owner = ["94763422146","94771540427"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.OwnerNumber = ["94763422146","94771540427"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.ownertag = ["94771540427"];
+global.OwnerName = "pansiluX";
 global.BotName = "Jessi-Md";
 global.packname = "Jessi-md bot";                             //Do not change.
-global.author = "By: Mr.White Shadow";                               //Do not change.
+global.author = "By:Ubetta";                               //Do not change.
 global.BotSourceCode = "https://github.com/whiteshadowofficial/Jessi-md"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc"; 
 
@@ -68,7 +68,8 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "colombo,Asia
+ ";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
